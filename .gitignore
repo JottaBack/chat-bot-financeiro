@@ -1,0 +1,13 @@
+# Local financial data
+*.db
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated reports
+relatorio_financeiro_*.csv
